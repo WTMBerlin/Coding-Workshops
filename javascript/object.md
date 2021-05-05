@@ -17,10 +17,10 @@ let workshop = {
     location: "Berlin",
     day: "Friday",
     time:"19:00",
-    year: "2019"
+    year: "2021"
 }
 ```
 
-We have keys 6 values
+We have keys and values
 
 Each of these keys is referred to as properties of the object. An object in JavaScript may also have a function as a member, in which case it will be known as a method of that object.
