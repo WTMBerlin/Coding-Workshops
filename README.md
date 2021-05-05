@@ -1,4 +1,4 @@
-## Coding workshops 
+## Coding workshops 🚀
 
 for beginners 
 
@@ -6,6 +6,6 @@ for beginners
 
 
 - JavaScript
--  CSS
--  HTML
+- CSS
+- HTML
   
