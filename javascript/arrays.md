@@ -1,4 +1,5 @@
-### JavaScript arrays
+ ## javaScript Workshop topics
+ ### JavaScript arrays
 
 JavaScript has no built-in general map type (sometimes called associative array or dictionary) which allows to access arbitrary values by arbitrary keys. JavaScript's fundamental data structure is the object, a special type of map which only accepts strings as keys and has special semantics like prototypical inheritance, getters and setters and some further voodoo.
 
